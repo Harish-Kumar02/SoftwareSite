@@ -1,0 +1,158 @@
+body {
+  font-family: "Montserrat";
+}
+
+#title {
+  background-image: url("https://images.pexels.com/photos/269077/pexels-photo-269077.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"), linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  background-blend-mode: overlay;
+}
+
+
+.navbar{
+  background-color: #141E27;
+}
+
+.nav-item{
+  text-align: right;
+  padding: 0 18%;
+}
+
+
+.row {
+  padding: 3% 5% 0;
+}
+
+h1 {
+  font-family: 'Montserrat-Black', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+  color: white;
+}
+
+h2 {
+  font-family: 'Noto Serif', serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color:#0F0E0E;
+}
+
+h3 {
+  font-family: "Montserrat-Bold", sans-serif;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+h4 {
+
+    font-family: "Montserrat-Bold", sans-serif;
+    line-height: 1.5;
+    font-weight: lighter;
+    color: white;
+}
+
+p {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.about-text{
+  font-family: 'Bona Nova', serif;
+  color: #334257;
+  font: 2rem;
+  padding: 2% 10%;
+}
+
+.name{
+  padding: 15% 5%;
+}
+
+.info{
+  padding: 15% 5%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+ padding: 0 1%;
+}
+
+
+.nav-link {
+  font-family: "Montserrat-Light";
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+#about {
+  text-align: center;
+    background-color: #F0E5CF;
+
+}
+
+#job{
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/267507/pexels-photo-267507.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"),linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+  background-size: cover;
+  background-blend-mode: overlay;
+}
+
+.faicon{
+  padding: 10px 5px 0;
+  color: white;
+}
+
+.job-image{
+  height: 10%;
+  width: 100%;
+}
+
+.testimonial-image {
+  width: 50%;
+}
+
+.job-text{
+  padding-top: 30px;
+}
+
+#press {
+  background-color: #ff4c68;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.presslogo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 3% 15%;
+}
+
+#footer{
+  text-align: center;
+  background-color: #141E27;
+
+}
+
+.footer-text{
+  font-family: serif;
+  font-size: 1rem;
+}
